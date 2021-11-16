@@ -17,7 +17,7 @@ int indexOfMax(int *a, int size) {
 // Return the index of smallest value.  
 // If more than one element has largest value, 
 // break tie by returning the smallest index that
-// corresponds to an element with the largest value.
+// corresponds to an element with the smallest value.
 // You may assume size >= 1
 int indexOfMin(int *a, int size) {
   assert(size >= 1);
