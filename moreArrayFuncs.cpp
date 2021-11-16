@@ -15,7 +15,7 @@ int indexOfMax(int *a, int size) {
 
 // a: an array of ints.  size is how many ints in array
 // Return the index of smallest value.  
-// If more than one element has largest value, 
+// If more than one element has smallest value,
 // break tie by returning the smallest index that
 // corresponds to an element with the smallest value.
 // You may assume size >= 1
